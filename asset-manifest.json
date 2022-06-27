@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/react-minimal/static/css/main.31d6cfe0.css",
+    "main.js": "/react-minimal/static/js/main.44ae7ebb.js",
+    "index.html": "/react-minimal/index.html",
+    "main.44ae7ebb.js.map": "/react-minimal/static/js/main.44ae7ebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.44ae7ebb.js"
+  ]
+}
